@@ -1,0 +1,12 @@
+{
+  "name": "lab4-04-property-decorators",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "old-fields": "tsc --useDefineForClassFields false && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

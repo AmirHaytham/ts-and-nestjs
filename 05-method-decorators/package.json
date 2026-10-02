@@ -1,0 +1,11 @@
+{
+  "name": "lab4-05-method-decorators",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
